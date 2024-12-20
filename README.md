@@ -84,7 +84,5 @@ Barlow Twins is a self-supervised learning method that focuses on maximizing the
 - Ensure to handle data preprocessing, augmentation, and normalization appropriately.
 - Monitor for overfitting and use an independent sample for validation.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
